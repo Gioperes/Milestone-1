@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://images.unsplash.com/photo-1611651338412-8403fa6e3599?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80);
+	text-align: center;
+}
+
+.text-muted{
+	color: #7C97A7;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
