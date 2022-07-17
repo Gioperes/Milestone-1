@@ -20,7 +20,7 @@ var trivia = {
     timer: 20,
     timerOn: false,
     timerId: '',
-    // questions options and answers data
+    // questions options and answers
     questions: {
         q1: 'In 1963, the Porsche 911 was actually named what?',
         q2: 'In 2017, the Porsche Cayenne S Diesel set a world record towing what?',
