@@ -28,8 +28,8 @@ var trivia = {
         q4: 'Porsche built thier first electric car in what year?',
         q5: "Porsche's logo is very similar to what other logo?",
         q6: 'The 1986 Porsche 944 was the first car sold in the US with what as standard equipment?',
-        q7: "Porsche desgined engine with which motorcylce manufacturer?",
-        q8: "Are they cool?"
+        q7: 'Porsche desgined engine with which motorcylce manufacturer?',
+        q8: 'Are they cool?'
     },
     options: {
         q1: ['911', '901', '959', '356'],
@@ -49,7 +49,7 @@ var trivia = {
         q5: 'Ferarri',
         q6: 'Airbags',
         q7: 'Harley-Davidson',
-        q8: "Yes"
+        q8: 'Yes'
     },
     // trivia methods
     // method to initialize game
