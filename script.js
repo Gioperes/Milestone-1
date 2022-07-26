@@ -83,7 +83,7 @@ var trivia = {
     nextQuestion: function () {
 
         // set timer to 20 seconds each question
-        trivia.timer = 10;
+        trivia.timer = 8;
         $('#timer').removeClass('last-seconds');
         $('#timer').text(trivia.timer);
 
