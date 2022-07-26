@@ -1,5 +1,8 @@
-# Milestone-1
-NJIT Milestone 1 Web Game
+# Porsche Trivia Game
+## Description
 This is a game to test you knowledge on Porsche! 
 Press Start Game and see how much you know!
 Have fun and enjoy!
+
+## Screenshot
+![Alt text](./Assets/Screen%20Shot%202022-07-26%20at%206.52.00%20PM.jpg "Screenshot")

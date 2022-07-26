@@ -17,7 +17,7 @@ body {
 }
 
 .jumbotron {
-    background: none;
+    background: rgba(0, 0, 0, 0.511);
 }
 
 .jumbotron h2 {
@@ -28,4 +28,7 @@ body {
 .div {
     color: #ffffff;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.jumbotron h1{
+    color: #ffffff;
 }
