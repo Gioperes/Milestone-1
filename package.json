@@ -1,0 +1,27 @@
+{
+  "name": "milestone-1",
+  "version": "1.0.0",
+  "description": "This is a game to test you knowledge on Porsche!  Press Start Game and see how much you know! Have fun and enjoy!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gioperes/Milestone-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gioperes/Milestone-1/issues"
+  },
+  "homepage": "https://github.com/Gioperes/Milestone-1#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.191"
+  }
+}
