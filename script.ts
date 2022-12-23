@@ -1,7 +1,3 @@
-window.onload = function () {
-    document.getElementById("engine sounds").play();
-}
-
 $(document).ready(function () {
 
     // event listeners
@@ -188,4 +184,4 @@ var trivia = {
 
     }
 
-}
+}                   
